@@ -17,11 +17,11 @@ A ideia desse evento é compartilhar conhecimento com uma das maiores comunidade
 | *20h* | **02/11**/2021 | *Secret* | ***Secret***
 | 21h | **02/11**/2021 |
 | *19h* | ***03/11**/2021* | *[Mateus Buogo](https://www.linkedin.com/in/mateus-buogo-b0084917/)* | ***Segurança Ofensiva - Afinal, o que é isso?***
-| 20h | **03/11**/2021 | [God6ixx](https://www.linkedin.com/in/marcos-6ix/) | ***Secret***
+| 20h | **03/11**/2021 | *[God6ixx](https://www.linkedin.com/in/marcos-6ix/)* | ***Secret***
 | *21h* | **03/11**/2021 |
-| 19h | **04/11**/2021 | [Pedro Guerra](https://www.linkedin.com/in/x0xten/) | ***Intro a Heap Exploitation Moderna***
+| 19h | **04/11**/2021 | *[Pedro Guerra](https://www.linkedin.com/in/x0xten/)* | ***Intro a Heap Exploitation Moderna***
 | *20h* | **04/11**/2021 | *Gosh* | ***VoIP Básico e Possíveis Ataques***
 | 21h | **04/11**/2021 |
 | *19h* | **05/11**/2021 | *[Eliabe Carlos](https://www.linkedin.com/in/eliabecarlos/)* | ***RSA - Uma Introdução à Criptografia***
 | 20h | **05/11**/2021 | *[Carlos Vieira](https://www.linkedin.com/in/carlosevieira/)* | 
-| *21h* | **05/11**/2021 |
+| *21h* | **05/11**/2021 | *Parad0x* | ***Secret***
