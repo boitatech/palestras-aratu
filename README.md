@@ -15,7 +15,7 @@ A ideia desse evento é compartilhar conhecimento com uma das maiores comunidade
 | *21h* | **01/11**/2021 |
 | 19h | **02/11**/2021 | *[Daniel Araujo](https://www.linkedin.com/in/dandga/)* | ***O que é AppSec?***
 | *20h* | **02/11**/2021 | *Secret* | ***Secret***
-| 21h | **02/11**/2021 |
+| 21h | **02/11**/2021 | *[Thauan Santos](https://www.linkedin.com/in/thau0x01)* | ***Secret***
 | *19h* | ***03/11**/2021* | *[Mateus Buogo](https://www.linkedin.com/in/mateus-buogo-b0084917/)* | ***Segurança Ofensiva - Afinal, o que é isso?***
 | 20h | **03/11**/2021 | *[God6ixx](https://www.linkedin.com/in/marcos-6ix/)* | ***Stealth in post-exploitation***
 | *21h* | **03/11**/2021 |
