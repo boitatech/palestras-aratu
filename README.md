@@ -24,4 +24,4 @@ A ideia desse evento é compartilhar conhecimento com uma das maiores comunidade
 | 21h | **04/11**/2021 |
 | *19h* | **05/11**/2021 | *[Eliabe Carlos](https://www.linkedin.com/in/eliabecarlos/)* | ***RSA - Uma Introdução à Criptografia***
 | 20h | **05/11**/2021 | *[Carlos Vieira](https://www.linkedin.com/in/carlosevieira/)* | 
-| *21h* | **05/11**/2021 | *Parad0x* | ***Secret***
+| *21h* | **05/11**/2021 | *[Parad0x](https://www.linkedin.com/in/allan-trindad-7296091bb/)* | ***Secret***
