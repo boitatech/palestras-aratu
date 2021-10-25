@@ -12,8 +12,8 @@ A ideia desse evento é compartilhar conhecimento com uma das maiores comunidade
 
 | Horário | Data | Palestrante | Tema |
 |---------------|------|-------------|------|
-| *19h* | **01/11**/2021 |
-| 20h | **01/11**/2021 | [Daniel Matsumoto](https://www.linkedin.com/in/celesi/) | ***Secret***
+| *19h* | **01/11**/2021 | *[Fernando Mercês](https://www.linkedin.com/in/fernandomerces/)* | ***Estudos sobre patching de binários ELF***
+| 20h | **01/11**/2021 | *[Daniel Matsumoto](https://www.linkedin.com/in/celesi/)* | ***Secret***
 | *21h* | **01/11**/2021 |
 | 19h | **02/11**/2021 | *[Daniel Araujo](https://www.linkedin.com/in/dandga/)* | ***O que é AppSec?***
 | *20h* | **02/11**/2021 | *Secret* | ***Secret***
