@@ -14,7 +14,7 @@ A ideia desse evento é compartilhar conhecimento com uma das maiores comunidade
 |---------------|------|-------------|------|
 | *19h* | **01/11**/2021 | *[Fernando Mercês](https://www.linkedin.com/in/fernandomerces/)* | ***Estudos sobre patching de binários ELF***
 | 20h | **01/11**/2021 | *[Daniel Matsumoto](https://www.linkedin.com/in/celesi/)* | ***Introduction to Windows Kernel Hacking***
-| *21h* | **01/11**/2021 |
+| *21h* | **01/11**/2021 | *[Matheus Kuck](https://www.linkedin.com/in/matheus-kuck-00b19618b/)* | ***Secret***
 | 19h | **02/11**/2021 | *[Daniel Araujo](https://www.linkedin.com/in/dandga/)* | ***O que é AppSec?***
 | *20h* | **02/11**/2021 | *Secret* | ***Secret***
 | 21h | **02/11**/2021 | *[Thau0x01](https://www.linkedin.com/in/thau0x01)* | ***Secret***
