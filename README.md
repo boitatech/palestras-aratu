@@ -2,6 +2,8 @@
 
 A ideia desse evento é compartilhar conhecimento com uma das maiores comunidades virtuais de segurança, a [Boitatech](https://www.boitatech.com.br/). Caso queira palestrar sobre algum tema, ou conheça alguém que queira, basta responder o formulário e aguardar a confirmação de sua palestra, em alguns dias os organizadores do evento entraram em contato pelos meios de comunicação que foram disponibilizados durante o preenchimento do formulário.
 
+**Discord: https://discord.gg/DtfrBeFM**
+
 **Formulário: https://forms.gle/9fQEuEvtn23jApWx7**
 
 ---
@@ -26,3 +28,4 @@ A ideia desse evento é compartilhar conhecimento com uma das maiores comunidade
 | 20h | **05/11**/2021 | *[Carlos Vieira](https://www.linkedin.com/in/carlosevieira/)* | ***Secret***
 | *21h* | **05/11**/2021 | *[Parad0x](https://www.linkedin.com/in/allan-trindad-7296091bb/)* | ***Secret***
  
+Vai acontecer no nosso servidor de Discord: https://discord.gg/DtfrBeFM
