@@ -23,7 +23,7 @@ A ideia desse evento é compartilhar conhecimento com uma das maiores comunidade
 | *21h* | **03/11**/2021 | *[KRDC](https://www.linkedin.com/in/kaardeco/)* | ***MITRE ATT&CK: Essential pack para simulação adversária***
 | 19h | **04/11**/2021 | *[Pedro Guerra](https://www.linkedin.com/in/x0xten/)* | ***Intro a Heap Exploitation Moderna***
 | *20h* | **04/11**/2021 | *Gosh* | ***VoIP Básico e Possíveis Ataques***
-| 21h | **04/11**/2021 | *Intervalo* | *Sorteio e avisos sobre a comunidade*
+| 21h | **04/11**/2021 |
 | *19h* | **05/11**/2021 | *[Eliabe Carlos](https://www.linkedin.com/in/eliabecarlos/)* | ***RSA - Uma Introdução à Criptografia***
 | 20h | **05/11**/2021 | *[Carlos Vieira](https://www.linkedin.com/in/carlosevieira/)* | ***Undisclosed***
 | *21h* | **05/11**/2021 | *[Parad0x](https://www.linkedin.com/in/allan-trindad-7296091bb/)* | ***Undisclosed***
