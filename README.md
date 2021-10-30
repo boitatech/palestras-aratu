@@ -6,6 +6,8 @@ A ideia desse evento é compartilhar conhecimento com uma das maiores comunidade
 
 **Formulário: https://forms.gle/9fQEuEvtn23jApWx7**
 
+O evento será transmitido por meio dos nossos canais da [TWITCH](https://www.twitch.tv/boitatech) e  [YOUTUBE](https://www.youtube.com/channel/UC7HAEoQjhtcCFWjgcivluyA).
+
 ---
 
 ## Palestrantes confirmados
@@ -28,4 +30,3 @@ A ideia desse evento é compartilhar conhecimento com uma das maiores comunidade
 | 20h | **05/11**/2021 | *[Carlos Vieira](https://www.linkedin.com/in/carlosevieira/)* | ***Undisclosed***
 | *21h* | **05/11**/2021 | *[Parad0x](https://www.linkedin.com/in/allan-trindad-7296091bb/)* | ***Undisclosed***
  
-Vai acontecer no nosso servidor de Discord: https://discord.gg/DtfrBeFM
