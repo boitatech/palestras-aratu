@@ -24,7 +24,7 @@ O evento será transmitido por meio dos nossos canais da [TWITCH](https://www.tw
 | 20h | **03/11**/2021 | *[Marcos Rosário (god6ixx)](https://www.linkedin.com/in/marcos-6ix/)* | ***Stealth in post-exploitation***
 | *21h* | **03/11**/2021 | *[KRDC](https://www.linkedin.com/in/kaardeco/)* | ***MITRE ATT&CK: Essential pack para simulação adversária***
 | 19h | **04/11**/2021 | *[Pedro Guerra](https://www.linkedin.com/in/x0xten/)* | ***Intro a Heap Exploitation Moderna***
-| *20h* | **04/11**/2021 | *[Silvano Girardi Jr](https://www.linkedin.com/in/silvanojr/)* | ***VoIP Básico e Possíveis Ataques***
+| *20h* | **04/11**/2021 | *[Silvano Girardi Jr (gosh)](https://www.linkedin.com/in/silvanojr/)* | ***VoIP Básico e Possíveis Ataques***
 | 21h | **04/11**/2021 | *[Giovana Assis França](https://www.linkedin.com/in/giovanaassis/)* | ***Estudei muito e agora, o que mais?***
 | *19h* | **05/11**/2021 | *[Eliabe Carlos](https://www.linkedin.com/in/eliabecarlos/)* | ***RSA - Uma Introdução à Criptografia***
 | 20h | **05/11**/2021 | *[Carlos Vieira](https://www.linkedin.com/in/carlosevieira/)* | ***Undisclosed***
