@@ -14,7 +14,7 @@ O evento será transmitido por meio dos nossos canais da [TWITCH](https://www.tw
 
 | Horário | Data | Palestrante | Tema |
 |---------------|------|-------------|------|
-| *19h* | **01/11**/2021 | *[Fernando Mercês](https://www.linkedin.com/in/fernandomerces/)* | ***Estudos sobre patching de binários ELF***
+| *19h* | **01/11**/2021 | *[Fernando Mercês](https://www.linkedin.com/in/fernandomerces/)* | ***Faça bem só uma coisa, depois faça outra***
 | 20h | **01/11**/2021 | *[Daniel Matsumoto](https://www.linkedin.com/in/celesi/)* | ***Introduction to Windows Kernel Hacking***
 | *21h* | **01/11**/2021 | *[Matheus Kuck](https://www.linkedin.com/in/matheus-kuck-00b19618b/)* | ***Undisclosed***
 | 19h | **02/11**/2021 | *[Daniel Araujo](https://www.linkedin.com/in/dandga/)* | ***O que é AppSec?***
