@@ -17,7 +17,7 @@ O evento será transmitido por meio dos nossos canais da [TWITCH](https://www.tw
 | *19h* | **01/11**/2021 | *[Fernando Mercês](https://www.linkedin.com/in/fernandomerces/)* | ***Faça bem só uma coisa, depois faça outra***
 | *20h* | **01/11**/2021 | *[Daniel Matsumoto](https://www.linkedin.com/in/celesi/)* | ***Introduction to Windows Kernel Hacking***
 | *21h* | **01/11**/2021 | *[Matheus Kuck](https://www.linkedin.com/in/matheus-kuck-00b19618b/)* | ***Undisclosed***
-| *19h* | **02/11**/2021 | *[Thau0x01](https://www.linkedin.com/in/thau0x01)* | ***Undisclosed***
+| *19h* | **02/11**/2021 | *[Thau0x01](https://www.linkedin.com/in/thau0x01)* | ***How to Get Away with a Cyber Security Job***
 | *20h* | **02/11**/2021 | *Undisclosed* | ***Undisclosed***
 | *21h* | **02/11**/2021 | *[Daniel Araujo](https://www.linkedin.com/in/dandga/)* | ***O que é AppSec?***
 | *22h* | **02/11**/2021 | *[Raul Cândido](https://www.linkedin.com/in/raulcandido/)* | ***Forense Digital - Por onde começar a estudar?***
