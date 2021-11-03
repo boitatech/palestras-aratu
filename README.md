@@ -23,7 +23,7 @@ O evento será transmitido por meio dos nossos canais da [TWITCH](https://www.tw
 | *22h* | **02/11**/2021 | *[Raul Cândido](https://www.linkedin.com/in/raulcandido/)* | ***Forense Digital - Por onde começar a estudar?***
 | *19h* | **03/11**/2021 | *[Mateus Buogo](https://www.linkedin.com/in/mateus-buogo-b0084917/)* | ***Segurança Ofensiva - Afinal, o que é isso?***
 | *20h* | **03/11**/2021 | *[KRDC](https://www.linkedin.com/in/kaardeco/)* | ***MITRE ATT&CK: Essential pack para simulação adversária***
-| *21h* | **03/11**/2021 | *[Marcos Rosário (god6ixx)](https://www.linkedin.com/in/marcos-6ix/)* | ***Stealth in post-exploitation***
+| *21h* | **03/11**/2021 | *[Marcos Rosário (god6ixx)](https://www.linkedin.com/in/marcos-6ix/)* | ***Introduction to stealth in post-exploitation***
 | *19h* | **04/11**/2021 | *[Pedro Guerra](https://www.linkedin.com/in/x0xten/)* | ***Intro a Heap Exploitation Moderna***
 | *20h* | **04/11**/2021 | *[Silvano Girardi Jr (gosh)](https://www.linkedin.com/in/silvanojr/)* | ***VoIP Básico e Possíveis Ataques***
 | *21h* | **04/11**/2021 | *[Giovana Assis França](https://www.linkedin.com/in/giovanaassis/)* | ***Estudei muito e agora, o que mais?***
