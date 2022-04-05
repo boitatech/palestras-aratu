@@ -1,4 +1,4 @@
-<h1 align="center"> Organização das palestras - Evento Aratu | Boitatech </h1>
+<h1 align="center"> Organização das palestras - Semana Aratu I </h1>
 
 A ideia desse evento é compartilhar conhecimento com uma das maiores comunidades virtuais de segurança, a [Boitatech](https://www.boitatech.com.br/). Caso queira palestrar sobre algum tema, ou conheça alguém que queira, basta responder o formulário e aguardar a confirmação de sua palestra, em alguns dias os organizadores do evento entraram em contato pelos meios de comunicação que foram disponibilizados durante o preenchimento do formulário.
 
