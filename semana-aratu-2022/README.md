@@ -4,7 +4,7 @@ A ideia desse evento é compartilhar conhecimento com uma das maiores comunidade
 
 **Discord: https://discord.gg/DtfrBeFM**
 
-**Formulário: https://forms.gle/9fQEuEvtn23jApWx7**
+**Formulário: https://forms.gle/hLkrc6vDjffcdiuw9**
 
 O evento será transmitido por meio dos nossos canais da [TWITCH](https://www.twitch.tv/boitatech) e  [YOUTUBE](https://www.youtube.com/channel/UC7HAEoQjhtcCFWjgcivluyA).
 
