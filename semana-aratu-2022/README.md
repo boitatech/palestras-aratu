@@ -11,7 +11,7 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 - As palestras serão transmitidas por meio dos nossos canais da [TWITCH](https://www.twitch.tv/boitatech) e  [YOUTUBE](https://www.youtube.com/channel/UC7HAEoQjhtcCFWjgcivluyA);
 - Os workshops aconteceram durante as palestras no nosso servidor do [DISCORD](https://discord.gg/boitatech).
 
-<h1 align="center"> Palestrantes confirmados </h1>
+# Palestrantes confirmados
 
 | Horário | Data | Palestrante | Tema |
 |---------|------|-------------|------|
@@ -26,7 +26,7 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 | *20h* | **09/09**/2022 |
 | *21h* | **09/09**/2022 |
 
-<h1 align="center"> Workshops confirmados </h1>
+# Workshops confirmados
 
 | Horário | Data | Palestrante | Tema |
 |---------|------|-------------|------|
