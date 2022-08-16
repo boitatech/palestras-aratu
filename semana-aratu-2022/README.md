@@ -38,7 +38,7 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 | *20h* | **10/09**/2022 | *[Caio Luders](https://www.linkedin.com/in/caioluders/)* |
 | *21h* | **10/09**/2022 |
 | *17h* | **11/09**/2022 |
-| *18h* | **11/09**/2022 |
+| *18h* | **11/09**/2022 | *[Vinicius Pereira](https://www.linkedin.com/in/viniciuspereiras)* | Uma jornada por URI protocols
 | *19h* | **11/09**/2022 |
 | *20h* | **11/09**/2022 |
 | *21h* | **11/09**/2022 | *[Igor Franca](https://www.linkedin.com/in/igor-franca/)* | Game Hacking 101
