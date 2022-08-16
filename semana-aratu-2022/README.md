@@ -34,6 +34,7 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 | *18h* | **11/09**/2022 | *[]()* |
 | *19h* | **11/09**/2022 | *[]()* |
 | *20h* | **11/09**/2022 | *[]()* |
+| *21h* | **11/09**/2022 | *[]()* |
 
 # Workshops confirmados
 
