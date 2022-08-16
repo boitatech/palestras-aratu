@@ -11,30 +11,37 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 - As palestras serão transmitidas por meio dos nossos canais da [TWITCH](https://www.twitch.tv/boitatech) e  [YOUTUBE](https://www.youtube.com/channel/UC7HAEoQjhtcCFWjgcivluyA);
 - Os workshops aconteceram durante as palestras no nosso servidor do [DISCORD](https://discord.gg/boitatech).
 
-# Palestrantes confirmados
+<h1 align="center"> Palestrantes confirmados </h1>
+
+#### 05 a 09 de Setembro
 
 | Horário | Data | Palestrante | Tema |
 |---------|------|-------------|------|
-| *20h* | **05/09**/2022 | *[Igor Franca](https://www.linkedin.com/in/igor-franca/)* | Game Hacking 101
-| *21h* | **05/09**/2022 | *[Allan Trindad](https://www.linkedin.com/in/allan-trindad-7296091bb/)* |
+| *20h* | **05/09**/2022 | *[Allan Trindad](https://www.linkedin.com/in/allan-trindad-7296091bb/)* |
+| *21h* | **05/09**/2022 |
 | *20h* | **06/09**/2022 | *[Carlos Vieira](https://www.linkedin.com/in/carlosevieira/)* |
-| *21h* | **06/09**/2022 | *[Caio Luders](https://www.linkedin.com/in/caioluders/)* |
+| *21h* | **06/09**/2022 |
 | *20h* | **07/09**/2022 | *[Fernando Guisso](https://www.linkedin.com/in/fernandoguisso/)* | DAST na pipeline
-| *21h* | **07/09**/2022 | *[Matheus Vrech](https://www.linkedin.com/in/vrech/)* |
+| *21h* | **07/09**/2022 |
 | *20h* | **08/09**/2022 | *[Filipe Messias](https://www.linkedin.com/in/fmessias/)* | Universo AppSec
-| *21h* | **08/09**/2022 | *[Jonathan Joshua](https://www.linkedin.com/in/jonathanjdr/)* | Purple Team - Adversary Emulation
+| *21h* | **08/09**/2022 |
 | *20h* | **09/09**/2022 | *[Gabriel Galdino](https://www.linkedin.com/in/gabogaldino/)* | Importância dos desenvolvedores para a prevenção de vulnerabilidades na construção de aplicações
-| *21h* | **09/09**/2022 | *[Guilherme Thomazi Bonicontro](https://www.linkedin.com/in/guithomazi/)* | Malwares ELF e a scene Linux
-| *17h* | **10/09**/2022 | *[]()* |
-| *18h* | **10/09**/2022 | *[]()* |
-| *19h* | **10/09**/2022 | *[]()* |
-| *20h* | **10/09**/2022 | *[]()* |
-| *21h* | **10/09**/2022 | *[]()* |
-| *17h* | **11/09**/2022 | *[]()* |
-| *18h* | **11/09**/2022 | *[]()* |
-| *19h* | **11/09**/2022 | *[]()* |
-| *20h* | **11/09**/2022 | *[]()* |
-| *21h* | **11/09**/2022 | *[]()* |
+| *21h* | **09/09**/2022 | *[Matheus Vrech](https://www.linkedin.com/in/vrech/)* |
+
+#### 10 e 11 de Setembro
+
+| Horário | Data | Palestrante | Tema |
+|---------|------|-------------|------|
+| *17h* | **10/09**/2022 | *[Guilherme Thomazi Bonicontro](https://www.linkedin.com/in/guithomazi/)* | Malwares ELF e a scene Linux
+| *18h* | **10/09**/2022 | *[Fernando C. Menardi](https://www.linkedin.com/in/fernando-c-menardi-39b649195/)* | Virtual Machine Introspection na arquitetura ARM
+| *19h* | **10/09**/2022 | *[Jonathan Joshua](https://www.linkedin.com/in/jonathanjdr/)* | Purple Team - Adversary Emulation
+| *20h* | **10/09**/2022 | *[Caio Luders](https://www.linkedin.com/in/caioluders/)* |
+| *21h* | **10/09**/2022 |
+| *17h* | **11/09**/2022 |
+| *18h* | **11/09**/2022 |
+| *19h* | **11/09**/2022 |
+| *20h* | **11/09**/2022 |
+| *21h* | **11/09**/2022 | *[Igor Franca](https://www.linkedin.com/in/igor-franca/)* | Game Hacking 101
 
 # Workshops confirmados
 
