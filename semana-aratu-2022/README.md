@@ -25,6 +25,15 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 | *21h* | **08/09**/2022 | *[Jonathan Joshua](https://www.linkedin.com/in/jonathanjdr/)* | Purple Team - Adversary Emulation
 | *20h* | **09/09**/2022 | *[Gabriel Galdino](https://www.linkedin.com/in/gabogaldino/)* | Importância dos desenvolvedores para a prevenção de vulnerabilidades na construção de aplicações
 | *21h* | **09/09**/2022 | *[Guilherme Thomazi Bonicontro](https://www.linkedin.com/in/guithomazi/)* | Malwares ELF e a scene Linux
+| *17h* | **10/09**/2022 | *[]()* |
+| *18h* | **10/09**/2022 | *[]()* |
+| *19h* | **10/09**/2022 | *[]()* |
+| *20h* | **10/09**/2022 | *[]()* |
+| *21h* | **10/09**/2022 | *[]()* |
+| *17h* | **11/09**/2022 | *[]()* |
+| *18h* | **11/09**/2022 | *[]()* |
+| *19h* | **11/09**/2022 | *[]()* |
+| *20h* | **11/09**/2022 | *[]()* |
 
 # Workshops confirmados
 
