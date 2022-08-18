@@ -20,13 +20,13 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 | *20h* | **05/09**/2022 | *[Allan Trindad](https://www.linkedin.com/in/allan-trindad-7296091bb/)* |
 | *21h* | **05/09**/2022 |
 | *20h* | **06/09**/2022 | *[Carlos Vieira](https://www.linkedin.com/in/carlosevieira/)* |
-| *21h* | **06/09**/2022 |
+| *21h* | **06/09**/2022 | *[Matheus Vrech](https://www.linkedin.com/in/vrech/)* |
 | *20h* | **07/09**/2022 | *[IdWall](https://idwall.co/)* |
-| *21h* | **07/09**/2022 | *[Fernando Guisso](https://www.linkedin.com/in/fernandoguisso/)* | DAST na pipeline
+| *21h* | **07/09**/2022 | 
 | *20h* | **08/09**/2022 | *[Filipe Messias](https://www.linkedin.com/in/fmessias/)* | Universo AppSec
 | *21h* | **08/09**/2022 | *[Bruno Cortes](https://www.linkedin.com/in/bruno-cortes-b167649b/)* | 
 | *20h* | **09/09**/2022 | *[Gabriel Galdino](https://www.linkedin.com/in/gabogaldino/)* | Importância dos desenvolvedores para a prevenção de vulnerabilidades na construção de aplicações
-| *21h* | **09/09**/2022 | *[Matheus Vrech](https://www.linkedin.com/in/vrech/)* |
+| *21h* | **09/09**/2022 | *[Fernando Guisso](https://www.linkedin.com/in/fernandoguisso/)* | DAST na pipeline
 
 #### 10 e 11 de Setembro
 
