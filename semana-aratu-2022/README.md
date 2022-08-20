@@ -22,7 +22,7 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 | *20h* | **06/09**/2022 | *[Carlos Vieira](https://www.linkedin.com/in/carlosevieira/)* |
 | *21h* | **06/09**/2022 | *[Matheus Vrech](https://www.linkedin.com/in/vrech/)* |
 | *20h* | **07/09**/2022 | *[IdWall](https://idwall.co/)* | Segurança de JWT's
-| *21h* | **07/09**/2022 | 
+| *21h* | **07/09**/2022 | *[Rafael Pereira](https://www.linkedin.com/in/rafa/)* |
 | *20h* | **08/09**/2022 | *[Filipe Messias](https://www.linkedin.com/in/fmessias/)* | Universo AppSec
 | *21h* | **08/09**/2022 | *[Bruno Cortes](https://www.linkedin.com/in/bruno-cortes-b167649b/)* | 
 | *20h* | **09/09**/2022 | *[Gabriel Galdino](https://www.linkedin.com/in/gabogaldino/)* | Importância dos desenvolvedores para a prevenção de vulnerabilidades na construção de aplicações
