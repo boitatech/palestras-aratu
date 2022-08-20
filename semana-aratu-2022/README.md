@@ -17,7 +17,7 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 
 | Horário | Data | Palestrante | Tema |
 |---------|------|-------------|------|
-| *20h* | **05/09**/2022 | *[Allan Trindad](https://www.linkedin.com/in/allan-trindad-7296091bb/)* |
+| *20h* | **05/09**/2022 | *[Allan Trindad](https://www.linkedin.com/in/allan-trindad-7296091bb/)* | Lições aprendidas de uma CVE
 | *21h* | **05/09**/2022 | *[Lucas Teske](https://www.linkedin.com/in/lucas-teske-8206301b/)* | Fault Injection: Voltage & Clock Glitching na pratica
 | *20h* | **06/09**/2022 | *[Carlos Vieira](https://www.linkedin.com/in/carlosevieira/)* |
 | *21h* | **06/09**/2022 | *[Matheus Vrech](https://www.linkedin.com/in/vrech/)* |
