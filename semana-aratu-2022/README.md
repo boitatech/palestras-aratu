@@ -40,7 +40,7 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 | *17h* | **11/09**/2022 | *[Filipi Pires](https://www.linkedin.com/in/filipipires/)* | Malware Hunting - First Steps
 | *18h* | **11/09**/2022 | *[Vinicius Pereira](https://www.linkedin.com/in/viniciuspereiras)* | Uma jornada por URI protocols
 | *19h* | **11/09**/2022 |
-| *20h* | **11/09**/2022 |
+| *20h* | **11/09**/2022 | *[Cauê Obici](https://www.linkedin.com/in/caueo/)* | Demonstrando impacto com vulnerabilidades Client-Side
 | *21h* | **11/09**/2022 | *[Igor Franca](https://www.linkedin.com/in/igor-franca/)* | Game Hacking 101
 
 # Workshops confirmados
