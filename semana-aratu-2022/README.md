@@ -24,7 +24,7 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 | *20h* | **07/09**/2022 | 
 | *21h* | **07/09**/2022 | *[Reinaldo Bispo - Corvo](https://www.linkedin.com/in/reinaldo-bispo/)* | To PIX from Mesário: Como seu CPF pode torná-lo mesário do TSE
 | *20h* | **08/09**/2022 | *[Filipe Messias](https://www.linkedin.com/in/fmessias/)* | Universo AppSec
-| *21h* | **08/09**/2022 | *[Bruno Cortes](https://www.linkedin.com/in/bruno-cortes-b167649b/)* | 
+| *21h* | **08/09**/2022 | 
 | *20h* | **09/09**/2022 | *[Gabriel Galdino](https://www.linkedin.com/in/gabogaldino/)* | Importância dos desenvolvedores para a prevenção de vulnerabilidades na construção de aplicações
 | *21h* | **09/09**/2022 | *[Fernando Guisso](https://www.linkedin.com/in/fernandoguisso/)* | DAST na pipeline
 
