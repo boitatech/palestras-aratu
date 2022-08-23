@@ -19,9 +19,9 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 |---------|------|-------------|------|
 | *20h* | **05/09**/2022 | *[Allan Trindad](https://www.linkedin.com/in/allan-trindad-7296091bb/)* | Lições aprendidas de uma CVE
 | *21h* | **05/09**/2022 | *[Lucas Teske](https://www.linkedin.com/in/lucas-teske-8206301b/)* | Fault Injection: Voltage & Clock Glitching na pratica
-| *20h* | **06/09**/2022 | *[Carlos Vieira](https://www.linkedin.com/in/carlosevieira/)* |
+| *20h* | **06/09**/2022 | *[IdWall](https://idwall.co/)* | Segurança de JWT's
 | *21h* | **06/09**/2022 | *[Matheus Vrech](https://www.linkedin.com/in/vrech/)* |
-| *20h* | **07/09**/2022 | *[IdWall](https://idwall.co/)* | Segurança de JWT's
+| *20h* | **07/09**/2022 | 
 | *21h* | **07/09**/2022 | *[Reinaldo Bispo - Corvo](https://www.linkedin.com/in/reinaldo-bispo/)* | To PIX from Mesário: Como seu CPF pode torná-lo mesário do TSE
 | *20h* | **08/09**/2022 | *[Filipe Messias](https://www.linkedin.com/in/fmessias/)* | Universo AppSec
 | *21h* | **08/09**/2022 | *[Bruno Cortes](https://www.linkedin.com/in/bruno-cortes-b167649b/)* | 
@@ -39,7 +39,7 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 | *21h* | **10/09**/2022 | *[Eduardo Cardoso](https://www.linkedin.com/in/eduardo-cardoso-677958171/)* | Entendendo o WAF
 | *17h* | **11/09**/2022 | *[Filipi Pires](https://www.linkedin.com/in/filipipires/)* | Malware Hunting - First Steps
 | *18h* | **11/09**/2022 | *[Vinicius Pereira](https://www.linkedin.com/in/viniciuspereiras)* | Uma jornada por URI protocols
-| *19h* | **11/09**/2022 |
+| *19h* | **11/09**/2022 | *[Carlos Vieira](https://www.linkedin.com/in/carlosevieira/)* |
 | *20h* | **11/09**/2022 | *[Cauê Obici](https://www.linkedin.com/in/caueo/)* | Demonstrando impacto com vulnerabilidades Client-Side
 | *21h* | **11/09**/2022 | *[Igor Franca](https://www.linkedin.com/in/igor-franca/)* | Game Hacking 101
 
