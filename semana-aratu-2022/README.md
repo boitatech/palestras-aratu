@@ -56,5 +56,5 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 | *20h* | **06/09**/2022 | *[Aderbal Botelho](https://www.linkedin.com/in/aderbalbotelho/)* | Do SMART ao Carving | Confirmado
 | *20h* | **07/09**/2022 | *[Daniel Gonçalves Araujo](https://www.linkedin.com/in/dandga/)* | Construindo uma esteira de desenvolvimento seguro | Confirmado
 | *20h* | **08/09**/2022 | *JC GreenMind* | Monitoramento de Phishings usando fontes públicas | Confirmado
-| *20h* | **09/09**/2022 |
+| *20h* | **09/09**/2022 | *[Clara Nobre](https://www.linkedin.com/in/claranobre/)* | Criando ambientes serveless seguros na AWS | Confirmado
 
