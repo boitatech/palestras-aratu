@@ -19,7 +19,7 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 |---------|------|-------------|------|--------|
 | *20h* | **05/09**/2022 | *[Allan Trindad](https://www.linkedin.com/in/allan-trindad-7296091bb/)* | Lições aprendidas de uma CVE | Confirmado
 | *21h* | **05/09**/2022 | *[Lucas Teske](https://www.linkedin.com/in/lucas-teske-8206301b/)* | Fault Injection: Voltage & Clock Glitching na pratica | Confirmado
-| *22h* | **05/09**/2022 |
+| *22h* | **05/09**/2022 | *[Leticia Pereira](https://www.linkedin.com/in/leticiampereira/)* | | Confirmado
 | *20h* | **06/09**/2022 | *[Leonardo Kazuhiko](https://www.linkedin.com/in/kazu-hiko/)* e *[Luma Arruma](https://www.linkedin.com/in/luma-arruda/)* | Segurança de JWT's | Confirmado
 | *21h* | **06/09**/2022 | *[Matheus Vrech](https://www.linkedin.com/in/vrech/)* |
 | *22h* | **06/09**/2022 | *[Marília Rocha](https://www.linkedin.com/in/mar%C3%ADliadarocha/)* | | Confirmado
