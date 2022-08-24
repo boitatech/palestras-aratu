@@ -25,7 +25,7 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 | *22h* | **06/09**/2022 |
 | *20h* | **07/09**/2022 | *[Camilla Martins](https://www.linkedin.com/in/camilla-martins-603344115/)* | Cloudnative 5G: o que podemos esperar para o futuro? | Confirmado
 | *21h* | **07/09**/2022 | *[Reinaldo Bispo - Corvo](https://www.linkedin.com/in/reinaldo-bispo/)* | Como seu CPF pode torná-lo mesário do TSE | Confirmado
-| *22h* | **07/09**/2022 |
+| *22h* | **07/09**/2022 | *[Giovana Assis](https://www.linkedin.com/in/giovanaassis/)* | Que p@%* é AppSec?
 | *20h* | **08/09**/2022 | *[Filipe Messias](https://www.linkedin.com/in/fmessias/)* | Universo AppSec | Confirmado
 | *21h* | **08/09**/2022 | *[Pedro Silva](https://www.linkedin.com/in/demon-i386/)* | Introdução ao Wi-Fi Hacking | Confirmado
 | *22h* | **08/09**/2022 | *[Helena Carreço](https://br.linkedin.com/in/helena-carreco)* | Security Champions: elevando a maturidade de segurança sem o dev te xingar! | Confirmado
