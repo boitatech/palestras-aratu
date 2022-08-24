@@ -31,7 +31,7 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 | *22h* | **08/09**/2022 | *[Helena Carreço](https://br.linkedin.com/in/helena-carreco)* | Security Champions: elevando a maturidade de segurança sem o dev te xingar! | Confirmado
 | *20h* | **09/09**/2022 | *[Gabriel Galdino](https://www.linkedin.com/in/gabogaldino/)* | Importância dos desenvolvedores para a prevenção de vulnerabilidades na construção de aplicações | Confirmado
 | *21h* | **09/09**/2022 | *[Fernando Guisso](https://www.linkedin.com/in/fernandoguisso/)* | DAST na pipeline | Confirmado
-| *22h* | **09/09**/2022 |
+| *22h* | **09/09**/2022 | *[Cybelle Oliveira](https://www.linkedin.com/in/cybelleoliveira/)* | Por que mulheres precisam de mais e melhor OpSec? | Confirmado
 
 #### 10 e 11 de Setembro
 
