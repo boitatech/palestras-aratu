@@ -19,14 +19,19 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 |---------|------|-------------|------|--------|
 | *20h* | **05/09**/2022 | *[Allan Trindad](https://www.linkedin.com/in/allan-trindad-7296091bb/)* | Lições aprendidas de uma CVE | Confirmado
 | *21h* | **05/09**/2022 | *[Lucas Teske](https://www.linkedin.com/in/lucas-teske-8206301b/)* | Fault Injection: Voltage & Clock Glitching na pratica | Confirmado
+| *22h* | **05/09**/2022 |
 | *20h* | **06/09**/2022 | *[Leonardo Kazuhiko](https://www.linkedin.com/in/kazu-hiko/)* e *[Luma Arruma](https://www.linkedin.com/in/luma-arruda/)* | Segurança de JWT's | Confirmado
 | *21h* | **06/09**/2022 | *[Matheus Vrech](https://www.linkedin.com/in/vrech/)* |
+| *22h* | **06/09**/2022 |
 | *20h* | **07/09**/2022 | *[Camilla Martins](https://www.linkedin.com/in/camilla-martins-603344115/)* | Cloudnative 5G: o que podemos esperar para o futuro? | Confirmado
 | *21h* | **07/09**/2022 | *[Reinaldo Bispo - Corvo](https://www.linkedin.com/in/reinaldo-bispo/)* | Como seu CPF pode torná-lo mesário do TSE | Confirmado
+| *22h* | **07/09**/2022 |
 | *20h* | **08/09**/2022 | *[Filipe Messias](https://www.linkedin.com/in/fmessias/)* | Universo AppSec | Confirmado
 | *21h* | **08/09**/2022 | *[Pedro Silva](https://www.linkedin.com/in/demon-i386/)* | Introdução ao Wi-Fi Hacking | Confirmado
+| *22h* | **08/09**/2022 |
 | *20h* | **09/09**/2022 | *[Gabriel Galdino](https://www.linkedin.com/in/gabogaldino/)* | Importância dos desenvolvedores para a prevenção de vulnerabilidades na construção de aplicações | Confirmado
 | *21h* | **09/09**/2022 | *[Fernando Guisso](https://www.linkedin.com/in/fernandoguisso/)* | DAST na pipeline | Confirmado
+| *22h* | **09/09**/2022 |
 
 #### 10 e 11 de Setembro
 
