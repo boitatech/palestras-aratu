@@ -22,7 +22,7 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 | *20h* | **06/09**/2022 | *[Leonardo Kazuhiko](https://www.linkedin.com/in/kazu-hiko/)* e *[Luma Arruma](https://www.linkedin.com/in/luma-arruda/)* | Segurança de JWT's | Confirmado
 | *21h* | **06/09**/2022 | *[Matheus Vrech](https://www.linkedin.com/in/vrech/)* |
 | *20h* | **07/09**/2022 | 
-| *21h* | **07/09**/2022 | *[Reinaldo Bispo - Corvo](https://www.linkedin.com/in/reinaldo-bispo/)* | To PIX from Mesário: Como seu CPF pode torná-lo mesário do TSE | Confirmado
+| *21h* | **07/09**/2022 | *[Reinaldo Bispo - Corvo](https://www.linkedin.com/in/reinaldo-bispo/)* | Como seu CPF pode torná-lo mesário do TSE | Confirmado
 | *20h* | **08/09**/2022 | *[Filipe Messias](https://www.linkedin.com/in/fmessias/)* | Universo AppSec | Confirmado
 | *21h* | **08/09**/2022 | 
 | *20h* | **09/09**/2022 | *[Gabriel Galdino](https://www.linkedin.com/in/gabogaldino/)* | Importância dos desenvolvedores para a prevenção de vulnerabilidades na construção de aplicações | Confirmado
