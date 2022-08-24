@@ -48,7 +48,7 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 | Horário | Data | Palestrante | Tema | Status |
 |---------|------|-------------|------|--------|
 | *20h* | **05/09**/2022 | *[Pedro Guerra](https://www.linkedin.com/in/x0xten/)* | Linux Kernel kmalloc-32 UAF with ld_struct | Confirmado
-| *20h* | **06/09**/2022 | *[Aderbal Botelho](https://www.linkedin.com/in/aderbalbotelho/)* |
+| *20h* | **06/09**/2022 | *[Aderbal Botelho](https://www.linkedin.com/in/aderbalbotelho/)* | Do SMART ao Carving | Confirmado
 | *20h* | **07/09**/2022 | *[Daniel Gonçalves Araujo](https://www.linkedin.com/in/dandga/)* | Construindo uma esteira de desenvolvimento seguro | Confirmado
 | *20h* | **08/09**/2022 | *JC GreenMind* | Monitoramento de Phishings usando fontes públicas | Confirmado
 | *20h* | **09/09**/2022 |
