@@ -39,7 +39,7 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 |---------|------|-------------|------|--------|
 | *17h* | **10/09**/2022 | *[Guilherme Thomazi Bonicontro](https://www.linkedin.com/in/guithomazi/)* | Malwares ELF e a scene Linux | Confirmado
 | *18h* | **10/09**/2022 | *[Fernando C. Menardi](https://www.linkedin.com/in/fernando-c-menardi-39b649195/)* | Virtual Machine Introspection na arquitetura ARM | Confirmado
-| *19h* | **10/09**/2022 | *[Jonathan Joshua](https://www.linkedin.com/in/jonathanjdr/)* | Purple Team - Adversary Emulation | Confirmado
+| *19h* | **10/09**/2022 | *[Jonathan Joshua](https://www.linkedin.com/in/jonathanjdr/)* | Adversary Emulation | Confirmado
 | *20h* | **10/09**/2022 | *[Caio Luders](https://www.linkedin.com/in/caioluders/)* | Achados e Perdidos - Ferramenta para encontrar ativos expirados/incorretos | Confirmado
 | *21h* | **10/09**/2022 | *[Eduardo Cardoso](https://www.linkedin.com/in/eduardo-cardoso-677958171/)* | Entendendo o WAF | Confirmado
 | *17h* | **11/09**/2022 | *[Filipi Pires](https://www.linkedin.com/in/filipipires/)* | Malware Hunting - First Steps | Confirmado
