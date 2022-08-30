@@ -42,7 +42,7 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 | *19h* | **10/09**/2022 | *[Jonathan Joshua](https://www.linkedin.com/in/jonathanjdr/)* | Adversary Emulation
 | *20h* | **10/09**/2022 | *[Caio Luders](https://www.linkedin.com/in/caioluders/)* | Achados e Perdidos - Ferramenta para encontrar ativos expirados/incorretos
 | *21h* | **10/09**/2022 | *[Eduardo Cardoso](https://www.linkedin.com/in/eduardo-cardoso-677958171/)* | Entendendo o WAF
-| *22h* | **10/09**/2022 |
+| *22h* | **10/09**/2022 | *Janaina Centini* | Peculiaridades de um cartão EMV vulgar
 | *17h* | **11/09**/2022 | *[Filipi Pires](https://www.linkedin.com/in/filipipires/)* | Malware Hunting - First Steps
 | *18h* | **11/09**/2022 | *[Vinicius Pereira](https://www.linkedin.com/in/viniciuspereiras)* | Uma jornada por URI protocols
 | *19h* | **11/09**/2022 | *[Carlos Vieira](https://www.linkedin.com/in/carlosevieira/)* |
