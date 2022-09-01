@@ -48,7 +48,6 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 | *19h* | **11/09**/2022 | *[Carlos Vieira](https://www.linkedin.com/in/carlosevieira/)* |
 | *20h* | **11/09**/2022 | *[Cauê Obici](https://www.linkedin.com/in/caueo/)* | Demonstrando impacto com vulnerabilidades Client-Side
 | *21h* | **11/09**/2022 | *[Igor Franca](https://www.linkedin.com/in/igor-franca/)* | Game Hacking 101
-| *22h* | **11/09**/2022 |
 
 # Workshops confirmados
 
