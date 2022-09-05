@@ -22,7 +22,7 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 | *22h* | **05/09**/2022 | *[Leticia Pereira](https://www.linkedin.com/in/leticiampereira/)* | Desmistificando a Deep Web
 | *20h* | **06/09**/2022 | *[Breno Vitório](https://www.linkedin.com/in/therealbrenu/)* & *[Luma Arruda](https://www.linkedin.com/in/luma-arruda/)* | Segurança de JWT's
 | *21h* | **06/09**/2022 | *[Matheus Vrech](https://www.linkedin.com/in/vrech/)* & [Breno Castilho](https://www.linkedin.com/in/brenocss/) | Introdução a Java Deserialization Attacks
-| *22h* | **06/09**/2022 | *[Marília Rocha](https://www.linkedin.com/in/mar%C3%ADliadarocha/)* |
+| *22h* | **06/09**/2022 | *[Marília Rocha](https://www.linkedin.com/in/mar%C3%ADliadarocha/)* | Segurança de Aplicações Web: Conhecimento de Desenvolvedores em Segurança para os seus códigos
 | *20h* | **07/09**/2022 | *[Camilla Martins](https://www.linkedin.com/in/camilla-martins-603344115/)* | Cloudnative 5G: o que podemos esperar para o futuro?
 | *21h* | **07/09**/2022 | *[Reinaldo Bispo - Corvo](https://www.linkedin.com/in/reinaldo-bispo/)* | Como seu CPF pode torná-lo mesário do TSE
 | *22h* | **07/09**/2022 | *[Giovana Assis](https://www.linkedin.com/in/giovanaassis/)* | Que p@%* é AppSec?
