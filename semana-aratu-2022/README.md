@@ -19,7 +19,7 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 |---------|------|-------------|------|
 | *20h* | **05/09**/2022 | *[Allan Trindad](https://www.linkedin.com/in/allan-trindad-7296091bb/)* | Lições aprendidas de uma CVE
 | *21h* | **05/09**/2022 | *[Lucas Teske](https://www.linkedin.com/in/lucas-teske-8206301b/)* | Fault Injection: Voltage & Clock Glitching na pratica
-| *22h* | **05/09**/2022 | *[Leticia Pereira](https://www.linkedin.com/in/leticiampereira/)* |
+| *22h* | **05/09**/2022 | *[Leticia Pereira](https://www.linkedin.com/in/leticiampereira/)* | Desmistificando a Deep Web
 | *20h* | **06/09**/2022 | *[Leonardo Kazuhiko](https://www.linkedin.com/in/kazu-hiko/)* & *[Luma Arruda](https://www.linkedin.com/in/luma-arruda/)* | Segurança de JWT's
 | *21h* | **06/09**/2022 | *[Matheus Vrech](https://www.linkedin.com/in/vrech/)* & [Breno Castilho](https://www.linkedin.com/in/brenocss/) | Introdução a Java Deserialization Attacks
 | *22h* | **06/09**/2022 | *[Marília Rocha](https://www.linkedin.com/in/mar%C3%ADliadarocha/)* |
