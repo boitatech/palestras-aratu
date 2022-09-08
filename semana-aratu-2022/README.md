@@ -55,7 +55,7 @@ Nesta edição teremos duas dinâmicas durante a semana, **palestras** e **works
 |---------|------|-------------|------|
 | *20h* | **05/09**/2022 | *[Pedro Guerra](https://www.linkedin.com/in/x0xten/)* | Linux Kernel kmalloc-32 UAF with ld_struct
 | *20h* | **06/09**/2022 | *[Aderbal Botelho](https://www.linkedin.com/in/aderbalbotelho/)* | Do SMART ao Carving
-| *20h* | **07/09**/2022 | *[Daniel Gonçalves Araujo](https://www.linkedin.com/in/dandga/)* | Construindo uma esteira de desenvolvimento seguro
+| *20h* | **07/09**/2022 | *[Eric Rodrigues](https://www.linkedin.com/in/giovane999/)* | Offensive Pipeline 101
 | *20h* | **08/09**/2022 | *[JC GreenMind](https://www.linkedin.com/in/júlio-césar-ferreira-rodrigues/)* | Monitoramento de Phishings usando fontes públicas
 | *20h* | **09/09**/2022 | *[Clara Nobre](https://www.linkedin.com/in/claranobre/)* | Criando ambientes serveless seguros na AWS
 
