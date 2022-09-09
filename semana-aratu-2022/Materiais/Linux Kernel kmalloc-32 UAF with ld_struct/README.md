@@ -1,0 +1,13 @@
+# Linux Kernel kmalloc-32 UAF with ld_struct
+## Pedro Guerra
+## 05-09-22 WORKSHOP 
+
+Here are some kernel config options in case you need it
+```
+CONFIG_SLAB=y
+CONFIG_SLAB_FREELIST_RANDOM=y
+CONFIG_SLAB_FREELIST_HARDENED=y
+CONFIG_HARDENED_USERCOPY=y
+CONFIG_STATIC_USERMODEHELPER=y
+CONFIG_STATIC_USERMODEHELPER_PATH=""
+```
